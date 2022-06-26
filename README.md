@@ -1,4 +1,5 @@
-### Hi there I'm Neemo👋
+<h1 align="center">Hi 👋, I'm NEEMO</h1>
+<h3 align="center">Student at School Of Code🌟.</h3>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
