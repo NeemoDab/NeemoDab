@@ -1,5 +1,7 @@
+<!-- </a><img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" align="center" width="300" height="300">  -->
+
 <h1 align="center">Hi 👋, I'm NEEMO</h1>
-<h3 align="center">Student at School Of Code </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h3 align="center">Student at School Of Code </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" height="100"> 
 </em></p></h3>
 
 <br>
