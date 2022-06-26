@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm NEEMO</h1>
 <h3 align="center">Student at School Of Code🌟.</h3>
 
+<br>
+<h3 align="left">Languages and Tools:</h3>
 <img src=""
       alt="" width="40" height="40" /> </a> <a href="" target="_blank" rel="noreferrer">
     <img 
@@ -49,7 +51,7 @@
       
 <br>
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -59,4 +61,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
