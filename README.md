@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm NEEMO</h1>
-<h3 align="center">Student at School Of Code🌟.</h3>
+<h3 align="center">Student at School Of Code </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p></h3>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
