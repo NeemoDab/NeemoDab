@@ -1,4 +1,4 @@
-</a><img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="900" height="300" > 
+<img src="https://media.giphy.com/media/0LrLpmet5uo0GgEHwR/giphy.gif" width="auto" height="auto" > 
 <!-- https://media.giphy.com/media/dw36yjtOAtuSZyxEJG/giphy.gif -->
 <h1 align="center"></a><img src="https://media.giphy.com/media/dw36yjtOAtuSZyxEJG/giphy.gif" width="300" height="300"> , I'm NEEMO</h1>
 <h3 align="center">Student at School Of Code </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" height="100"> 
