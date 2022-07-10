@@ -12,4 +12,8 @@
       <a href="https://www.codewars.com/users/NeemoDab" target="_blank">CodeWars Profile</a>
       
 ## Projects 
-      
+
+![Imgur](https://imgur.com/KfkPOzN)
+<a href="https://github.com/SchoolOfCode/w8d5_react-api-hackathon-neemo-and-alicia" target="_blank">Cat fetching API project link</a>
+
+
