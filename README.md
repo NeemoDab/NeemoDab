@@ -4,16 +4,17 @@
 </em></p></h3>
 
 <br>
+<img src="https://i.imgur.com/g9TQFX2.png" width="auto" height="auto" > 
 
 ## Languages and Tools:
-<a href="#"><img alt="Tools" src="https://imgur.com/a/2BHASNt" height="auto"></a>
+<a href="#"><img alt="Tools" src="https://i.imgur.com/OtnLmlH.png" height="auto" width="200px"></a>
   
 <br>
       <a href="https://www.codewars.com/users/NeemoDab" target="_blank">CodeWars Profile</a>
       
 ## Projects 
 
-![Imgur](https://imgur.com/KfkPOzN)
+<img src="https://i.imgur.com/86m3V6M.png" width="200px" height="auto" > 
 <a href="https://github.com/SchoolOfCode/w8d5_react-api-hackathon-neemo-and-alicia" target="_blank">Cat fetching API project link</a>
 
 
