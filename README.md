@@ -4,7 +4,7 @@
 </em></p></h3>
 
 <br>
-<img src="https://i.imgur.com/iwfbinb.png" width="auto" height="auto" > 
+<! -- <img src="https://i.imgur.com/iwfbinb.png" width="auto" height="auto" > -->
 
 ## Languages and Tools:
 <a href="#"><img alt="Tools" src="https://i.imgur.com/OtnLmlH.png" height="auto" width="200px"></a>
